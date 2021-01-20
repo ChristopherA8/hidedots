@@ -1,6 +1,6 @@
 Package: com.chr1s.hidedots
 Name: HideDots
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Hide page dots on iOS 14
 Maintainer: Chr1s
